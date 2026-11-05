@@ -1,0 +1,24 @@
+{
+  "format": "HouseTV-private-transfer-v1",
+  "parts": [
+    {
+      "name": "house-tv-transfer.001",
+      "bytes": 67108864,
+      "sha256": "c7e81a9ce9842b2571a41da3d0980cc9ca89f57b3633ecfbe31256d8a4c8b355"
+    },
+    {
+      "name": "house-tv-transfer.002",
+      "bytes": 67108864,
+      "sha256": "82155123fbdc38cb6365e0b58a2df804b2897b530f884df0d64b9f1618b23fc2"
+    },
+    {
+      "name": "house-tv-transfer.003",
+      "bytes": 3007488,
+      "sha256": "4524ff01083c752acd0c623f04fb861ab3cdc946573255c3c1866e06e39ff42f"
+    }
+  ],
+  "mac_salt": "75d1548e625c10a5af4e992e5d47f23a770361c7d5f69d7121ae6877680fe977",
+  "mac_sha256": "97dd6f9890577fd6c82320e0dd7e40c3fbeb5fb37bbda0a37ce87d5779362197",
+  "output": "House-TV-6.5.7-pacote-VPS.tar.gz",
+  "output_sha256": "29868c32b4a3176d8c2ba2eb5fa4af531cf13342a41b0e4fd5a4bc6d1d6ff8bc"
+}
